@@ -1,0 +1,5 @@
+@echo off
+rem python mtg_bookmark_iterator.py -snap_window -side right
+mtg_bookmark_iterator.exe.lnk -snap_window -side right
+rem python mtg_bookmark_iterator.py -check_for_duplicates
+mtg_bookmark_iterator.exe.lnk -check_for_duplicates

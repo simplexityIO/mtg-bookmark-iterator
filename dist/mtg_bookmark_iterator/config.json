@@ -1,0 +1,22 @@
+{
+    "profile": "personal",
+    "profiles": {
+        "personal": {
+            "chrome_profile": "Default",
+            "chrome_path": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+            "scraping_module": "requests",
+            "commander_bookmarks_id": 1972,
+            "excluded_commander_bookmarks_ids": [1973, 2085, 2098, 6043, 8075]
+        },
+        "work": {
+            "chrome_profile": "Profile 5",
+            "chrome_path": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+            "scraping_module": "selenium",
+            "commander_bookmarks_id": 2104,
+            "excluded_commander_bookmarks_ids": [2105, 2287, 2300, 9860, 9894]
+        }
+    },
+    "commander_path": ["Bookmarks bar", "Magic the Gathering", "Commander"],
+    "mythicspoiler_wait_time": 1,
+    "scryfall_api_wait_time": 1
+}
