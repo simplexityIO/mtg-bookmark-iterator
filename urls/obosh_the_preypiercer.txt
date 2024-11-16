@@ -31,7 +31,6 @@ https://scryfall.com/card/arb/33/anathemancer
 https://scryfall.com/card/cm2/94/dualcaster-mage?
 https://scryfall.com/card/m20/132/chandras-spitfire?
 https://scryfall.com/card/rna/185/judith-the-scourge-diva?1
-https://scryfall.com/card/eld/107/syr-konrad-the-grim?
 https://scryfall.com/card/bfz/158/tunneling-geopede
 https://scryfall.com/card/mb1/829/yargle-glutton-of-urborg
 https://scryfall.com/card/m20/98/embodiment-of-agonies
@@ -371,3 +370,13 @@ https://scryfall.com/card/ncc/52/seize-the-spotlight?3
 https://scryfall.com/card/ncc/82/false-floor?5
 https://scryfall.com/card/clb/169/descent-into-avernus
 https://scryfall.com/card/clb/162/balor
+https://scryfall.com/card/clb/139/pact-weapon?2
+https://scryfall.com/card/clb/196/storm-kings-thunder?2
+https://scryfall.com/card/clb/676/delayed-blast-fireball
+https://scryfall.com/card/clb/674/bothersome-quasit?2
+https://scryfall.com/card/clb/194/shiny-impetus?6
+https://scryfall.com/card/clb/168/coronation-of-chaos?6
+https://scryfall.com/card/clb/183/inspired-tinkering?6
+https://scryfall.com/card/clb/206/wild-magic-surge?5
+https://scryfall.com/card/dmu/149/twinferno?1
+https://scryfall.com/card/dmu/116/balduvian-berserker

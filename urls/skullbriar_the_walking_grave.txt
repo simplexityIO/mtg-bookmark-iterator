@@ -116,3 +116,5 @@ https://scryfall.com/card/ncc/40/waste-management?10
 https://scryfall.com/card/ncc/82/false-floor?6
 https://scryfall.com/card/mid/111/mask-of-griselbrand?3
 https://scryfall.com/card/afc/162/kenriths-transformation?1
+https://scryfall.com/card/clb/307/cloak-of-the-bat?11
+https://scryfall.com/card/clb/217/barroom-brawl?1

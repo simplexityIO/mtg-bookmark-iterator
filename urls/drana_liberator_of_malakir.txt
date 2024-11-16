@@ -48,3 +48,5 @@ https://scryfall.com/card/voc/4/timothar-baron-of-bats
 https://scryfall.com/card/khm/107/rise-of-the-dread-marn?4
 https://scryfall.com/card/ncc/34/body-count?10
 https://scryfall.com/card/clb/572/call-to-the-void?1
+https://scryfall.com/card/clb/307/cloak-of-the-bat?2
+https://scryfall.com/card/war/85/deliver-unto-evil?1
